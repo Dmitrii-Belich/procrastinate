@@ -33,7 +33,7 @@ let phrases = [
     }
   });
   
-  for (let i = 0; i <= 2; i = i + 1) {
+  for (let i = 0; i <= 9; i = i + 1) {
     smoothly(phrase, 'textContent', phrases[i].text);
     smoothly(image, 'src', phrases[i].image);
   };
