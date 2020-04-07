@@ -1,7 +1,7 @@
 let phrases = [
-    { text: 'отправить другу смешную гифку', image: './procrastinate/images/1.gif' },
+    { text: 'отправить другу смешную гифку', image: './images/1.gif' },
     { text: 'посмотреть скидки на авиабилеты', image: './procrastinate/images/2.png' },
-    { text: 'разобраться, о чём поют рэперы', image: './procrastinate/images/3.png' },
+    { text: 'разобраться, о чём поют рэперы', image: '/procrastinate/images/3.png' },
     { text: 'Юрий Дудь', image: './procrastinate/images/4.png' },
     { text: 'расставить книги на полке по цвету', image: './procrastinate/images/5.png' },
     { text: 'читать про зарплаты в Сан-Франциско', image: './procrastinate/images/6.png' },
